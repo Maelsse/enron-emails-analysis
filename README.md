@@ -10,4 +10,4 @@ During this week 21 years ago, Enron, at the time the 7th largest company in Ame
 For our project, we used the Enron Email corpus, which is the largest dataset of its kind and contains 600,000 emails between 158 former Enron employees, mostly senior executives. We worked with the text of the email bodies and unsupervised machine learning to try to replicate what investigators did to classify the documents into sentiment analysis. 
 
 #
-Contributors: Ryan Kim, Natalia Moreno Bautista, Myles Brown, Prathibha Shankar, Mai Flynn
+Contributors: Ryan Kim, Natalia Moreno Bautista, Myles Brown, Prathibha Shankar, Mai Flynn, Anisha Chaudhari
