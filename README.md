@@ -1,5 +1,8 @@
-# Project-4-Enron-Emails-with-ML
+# Enron Emails Sentiment Analysis with Machine Learning
 
 Contributors: Ryan Kim, Natalia Moreno Bautista, Myles Brown, Prathibha Shankar, Mai Flynn
 
-Dataset: https://www.cs.cmu.edu/~enron/
+# 
+
+## The Dataset: 
+https://www.cs.cmu.edu/~enron/
